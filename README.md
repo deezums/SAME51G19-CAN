@@ -1,7 +1,8 @@
 # SAME51G19-CAN
 Atmel ATSAME51G19A breakout board with TI TCAN33x transciever
 
-![Index_photo](extras/photos/ATSAME51G19A_CAN_INDEX.jpg "Connection between MCP2515 and SAME51.")
+
+.. image:: https://github.com/deezums/SAME51G19-CAN/raw/master/extras/photos/SAME51G19A_CAN_INDEX.jpg 
 
 This is version 1.0 of my ATSAME51G19A breakout board. 
 
