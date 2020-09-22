@@ -1,9 +1,6 @@
 # SAME51G19-CAN
 Atmel ATSAME51G19A breakout board with TI TCAN33x transciever
 
-
-.. image:: https://github.com/deezums/SAME51G19-CAN/raw/master/extras/photos/SAME51G19A_CAN_INDEX.jpg 
-
 This is version 1.0 of my ATSAME51G19A breakout board. 
 
 Includes a 3.3V LDO, usb power, a led on PB22, reset switch, and 3V power led.
